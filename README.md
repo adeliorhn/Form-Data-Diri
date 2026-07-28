@@ -1,2 +1,3 @@
 Bukti Screenshoot aplikasi
-img width="50%" alt="Screenshot_20260728-155455" src="https://github.com/user-attachments/assets/de4acd0c-3437-4c03-97e6-18d461d19301" />
+
+<img width="20%" alt="Screenshot_20260728-155455" src="https://github.com/user-attachments/assets/6c0a8e88-a997-4a9d-aa44-a8598fd7fa86" />
